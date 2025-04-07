@@ -77,7 +77,7 @@ Unser Ziel ist es, ein vollständig selbst kontrolliertes MMORPG-Erlebnis zu ers
 
 ## 📜 Lizenz & Open Source
 
-Das Projekt wird **Open Source entwickelt** und modular auf GitHub organisiert. Weitere Informationen folgen bald.
+Das Projekt wird zum teil **Open Source entwickelt** und modular auf GitHub organisiert. Weitere Informationen folgen bald.
 
 ---
 
